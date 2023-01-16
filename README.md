@@ -22,10 +22,3 @@
 </ul>
 <h2 align="center"> 🎟️ En cas de problème ?</h2>
 <p align="center">Rejoignez nous sur notre serveur discord :<a href="https://discord.gg/6MfHWHzJ"> cliquez ici</a> et ouvrez un ticket le staff s'occupera de votre demande</p>
-"# bot-discord-vinted" 
-"# bot-discord-vinted" 
-"# bot-discord-vinted" 
-"# bot-discord-vinted" 
-"# bot-discord-vinted" 
-"# bot-discord-vinted" 
-"# bot-discord-vinted" 
