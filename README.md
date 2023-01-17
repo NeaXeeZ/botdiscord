@@ -9,9 +9,6 @@
 <p align="center">
  <img src="https://i.ibb.co/RgqYhDs/Capture.png"></img>
  </p>
-<p align="center"> Vous pouvez modifier la couleur du text,  les informations que vous voulez avoir
-<img src="https://i.ibb.co/xM2jd6N/Capture.png"></img>
-</p>
  
 <h2 align="center"> 🛠️ Que peut-on faire avec le bot vinted</h2>
 <p align="center">
